@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.corpo{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+header{
+    background-color: red;
+}
+
+body{
+    background-color: aliceblue;
+}
+.tabela{
+    background-color: aliceblue;
+    display: flex;
+    justify-content:center;
+    position: relative;
+    padding-left: 10px;
+    
+ 
+}
+footer{
+    height: 10vh;
+    font-family: 'Open Sans', sans-serif;
+    background-color: red;
+    padding-top: 40px;
+}
+.strongg{
+    padding-top: 30px;
+}
+th,td{
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+hr{
+    border-color: black;
+    height: 2px;
+    background-color: black;
+}
+.caminhao{
+    padding-left: 150px;
+}
+.extra{
+    padding-left: 2000px;
+   
+} 
+strong{
+    color: white;
+}
+.botao_prox{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open sans', sans-serif;
+    margin-left: 1850px;
+    margin-right: 10px;
+}
