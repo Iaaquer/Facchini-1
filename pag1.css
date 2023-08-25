@@ -65,6 +65,12 @@ strong{
     border-radius: 5px;
     font-size: 14px;
     font-family: 'Open sans', sans-serif;
-    margin-left: 1850px;
+    margin-left: 1090px;
     margin-right: 10px;
+}
+.caminhao{
+    padding-right: 30vh;
+}
+.caminhao2{
+    padding-left: 30vh;
 }

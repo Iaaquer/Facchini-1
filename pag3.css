@@ -14,7 +14,7 @@ body{
     position: relative;
     display: inline-block;
     width: 90px;
-
+    padding-left: 75vh;
 }
 hr{
     border-color: black;
@@ -28,8 +28,24 @@ input, textarea{
     display: flex;
     border-color: red;
     border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
 }
 label{
     display: flex;
-    padding-right: 40px;
+    padding-right: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+.botao_ant{
+    padding: 6px 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Open sans', sans-serif;
+    margin-left: 2vh;
+    
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
 }
