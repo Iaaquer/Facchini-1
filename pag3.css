@@ -14,7 +14,7 @@ body{
     position: relative;
     display: inline-block;
     width: 90px;
-    padding-left: 75vh;
+    padding-left: 90vh;
 }
 hr{
     border-color: black;
@@ -48,4 +48,22 @@ label{
 }
 h1{
     font-family: 'Open Sans', sans-serif;
+}
+footer{
+    height: 10vh;
+    font-family: 'Open Sans', sans-serif;
+    background-color: red;
+    padding-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+hr{
+    border-color: black;
+    height: 2px;
+    background-color: black;
+    padding-left: 50vh;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 3vh;
 }
